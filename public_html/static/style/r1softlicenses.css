@@ -1,0 +1,149 @@
+.row.header h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 1.5em 0 1.5em 0;
+}
+
+body { font-size: 15px; font-size: 0.9375rem; }
+
+table.support td {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding: 0.5625rem 0.625rem;
+  line-height: 1.6;
+  vertical-align: middle;
+  line-height: 35px;
+}
+
+div.card .fs-dropdown { margin-top: 0; margin-bottom: 10px; }
+
+table.licensing-details td {
+    line-height: 24px;
+}
+
+.row.form .columns.submit {
+  padding-left: 15px;
+}
+
+div.row.h2-margin-bottom { margin-top: 15px; margin-bottom: 25px; }
+div.row.h3-margin {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.fs-checkbox {
+  padding-top: 8px;
+  padding-bottom: 9px;
+}
+
+.fs-checkbox-label {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.review-error {
+    padding-left: 20px;
+    color: red;
+}
+
+.line-through { text-decoration: line-through; }
+
+.package_terms label { margin-top: 0; margin-bottom: 0; font-weight: normal; }
+
+.package_terms { line-height: 37px; margin-bottom: 10px; }
+
+.licensing-details td span {
+    font-weight: normal;
+}
+
+.row .prorated {
+    margin-bottom: 10px;
+}
+
+.service div.row h3 {
+    line-height: 24px;
+}
+
+.service div.row a {
+    vertical-align: middle;
+}
+
+.modify-licensing-initial {
+  min-width: 550px;
+}
+
+.fs-number {
+    overflow: visible;
+}
+
+.fs-lightbox-loading_icon {
+    z-index: 100;
+}
+
+.new-form .field {
+    line-height: 37px;
+    vertical-align: middle; 
+}
+
+.fs-tooltip-content {
+    font-size: 14px;
+}
+
+.mc { 
+    color: #6c7a89;
+}
+
+.form-lh {
+    line-height: 37px;
+    vertical-align: middle;
+}
+
+.button.lineup-select-button.small {
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+.button {
+    background-color: #FF671F;
+}
+
+.button:hover, .button:focus,
+.button:active, .button:active {
+    background-color: #E75611;
+}
+
+form .row .row {
+    margin-left: -0.9375rem;
+    margin-right: -0.9375rem;
+}
+
+form .row .row .column, form .row .row .columns {
+  padding: 0 0.9375rem;
+}
+
+.mkpaydesc {
+    color: #FF671F;
+}
+
+button.disabled, button[disabled],
+.button.disabled, .button[disabled],
+button.disabled:hover, button.disabled:focus,
+button[disabled]:hover, button[disabled]:focus,
+.button.disabled:hover, .button.disabled:focus,
+.button[disabled]:hover, .button[disabled]:focus {
+    background-color: #FF8A52;
+    border-color: #FF8A52;
+}
+
+.button.lineup-select-button.small {
+  margin-top: 0px;
+}
+
+i.fa.lock-tier {
+  font-size: 0.6rem;
+  color: rgb(255, 103, 31);
+  vertical-align: middle;
+  line-height: 37px;
+  cursor: pointer;
+  margin-left: 3px;
+}

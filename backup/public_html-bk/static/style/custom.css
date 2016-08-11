@@ -1,0 +1,72 @@
+body, p, span, div, input, button, select, a, li, ul, td, thead, tr, tbody,
+table thead tr th, table tfoot tr th, table tbody tr td, table tr td, table tfoot tr td {
+  font-family: "Open Sans", sans-serif;
+  color: #222222;
+  font-weight: normal;
+}
+
+thead, tr, tbody, table thead tr th, table tfoot tr th,
+table tbody tr td, table tr td, table tfoot tr td {
+  line-height: 1.6;
+}
+
+a { color: #008cba; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 1.6875rem;
+  margin-bottom: 1.25rem;
+}
+
+.box-content h2 {
+  font-size: 1.4rem;
+  font-weight: 300;
+}
+
+h2 span { font-size: 1.4rem; }
+
+button:hover, button:focus {
+  color: inherit;
+}
+
+button:hover, button:focus {
+  background-color: inherit;
+}
+
+.fs-lightbox {
+    box-shadow: none;
+}
+
+.fs-dropdown-selected { white-space: nowrap; }
+
+.fs-lightbox-close {
+  top: -10px;
+  right: -10px;
+}
+
+.fs-lightbox-close:before {
+  top: 1px;
+  right: -1px;
+}
+
+.inline_content {
+  padding: 0 20px;
+}
+
+.margin-top-10 { margin-top: 10px; }
+.fs-lightbox-content,
+.fs-lightbox-container { overflow: inherit; }
+
+.button.lineup-select-button.small { margin-top: 10px; padding-bottom: 12px; padding-top: 12px; }
+.invoice-payment-confirm { min-width: 650px; }
+
+.medium.link.button { background-color: #FFFFFF; color: #008cba; }
+.invoice-payment-cancel, .invoice-payment-submit { margin-top: 5px; margin-bottom: 15px; }
+
+form.custom { margin-bottom: 0; }
+
+.button:focus { outline: none; }
+.button.link:active { text-decoration: underline; }
